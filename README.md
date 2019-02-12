@@ -15,11 +15,11 @@ This project presents a quick survey of the problem of source separation. To thi
 ## Usage
 
 ### Extraction
-The script extract.py in audio/ extracts files in order to fill the experiment script.
+The script extract.py in audio/ extracts files in order to feed the experiment script.
 
 ### Experiment
 
-The script MainExperiment launch the experiment, you can change parameter by editing the file.
+The script MainExperiment.py launch the experiment, you can change parameter by editing the file.
     
     Usage: Python3 MainExperiment.py <ROOM or ANECHOIC>
 
@@ -36,4 +36,4 @@ The scripts anal_ROOM.py and anal_ANECHOIC.py allow to fill the database and com
                             1 if you want to print the data.
 ## Licence 
 
-This project entirely open source, and may by used for any purpose.
+This project is entirely open source, and may by used for any purpose.
